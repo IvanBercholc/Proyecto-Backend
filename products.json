@@ -1,0 +1,84 @@
+[
+	{
+		"title": "Vestido Wave",
+		"description": "Vestido Microtul",
+		"price": 5800,
+		"thumbnail": "https://res.cloudinary.com/dkb1qdwt2/image/upload/v1666308950/rica-assets/vestido-wave_jjnrbi.jpg",
+		"code": "239",
+		"stock": 5,
+		"id": 1
+	},
+	"Cancan Oxido Ocre",
+	{
+		"title": "Microtop Wave",
+		"description": "Microtop Microtul",
+		"price": 2400,
+		"thumbnail": "https://res.cloudinary.com/dkb1qdwt2/image/upload/v1666308952/rica-assets/microtop-wave_ue5c7j.jpg",
+		"code": "934",
+		"stock": 2,
+		"id": 3
+	},
+	{
+		"title": "Polera Cuin Marron",
+		"description": "Polera Micrtoul",
+		"price": 2700,
+		"thumbnail": "https://res.cloudinary.com/dkb1qdwt2/image/upload/v1666308951/rica-assets/polera-cuin-marron_wx30ap.jpg",
+		"code": "296",
+		"stock": 7,
+		"id": 7
+	},
+	{
+		"title": "Cancan Liga Negra",
+		"description": "Cancan Microtul",
+		"price": 3400,
+		"thumbnail": "https://res.cloudinary.com/dkb1qdwt2/image/upload/v1666308950/rica-assets/cancan-liga-negra_g10uo1.jpg",
+		"code": "694",
+		"stock": 9,
+		"id": 8
+	},
+	{
+		"title": "Vestido Wave",
+		"description": "Vestido Microtul",
+		"price": 5800,
+		"thumbnail": "https://res.cloudinary.com/dkb1qdwt2/image/upload/v1666308950/rica-assets/vestido-wave_jjnrbi.jpg",
+		"code": "239",
+		"stock": 5,
+		"id": 9
+	},
+	{
+		"title": "Cancan Wave",
+		"description": "Cancan Microtul",
+		"price": 3400,
+		"thumbnail": "https://res.cloudinary.com/dkb1qdwt2/image/upload/v1666308951/rica-assets/cancan-wave_jldifa.jpg",
+		"code": "467",
+		"stock": 4,
+		"id": 10
+	},
+	{
+		"title": "Microtop Wave",
+		"description": "Microtop Microtul",
+		"price": 2400,
+		"thumbnail": "https://res.cloudinary.com/dkb1qdwt2/image/upload/v1666308952/rica-assets/microtop-wave_ue5c7j.jpg",
+		"code": "934",
+		"stock": 2,
+		"id": 11
+	},
+	{
+		"title": "Polera Cuin Azul",
+		"description": "Polera Microtul",
+		"price": 2700,
+		"thumbnail": "https://res.cloudinary.com/dkb1qdwt2/image/upload/v1666308951/rica-assets/polera-cuin-azul_nkdhfc.jpg",
+		"code": "431",
+		"stock": 6,
+		"id": 12
+	},
+	{
+		"title": "Cancan Cuin Marron",
+		"description": "Cancan Microtul",
+		"price": 3400,
+		"thumbnail": "https://res.cloudinary.com/dkb1qdwt2/image/upload/v1666308950/rica-assets/cancan-cuin-marron_vw89yn.jpg",
+		"code": "249",
+		"stock": 5,
+		"id": 13
+	}
+]
